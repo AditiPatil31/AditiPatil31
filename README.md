@@ -39,6 +39,13 @@ I design and develop end-to-end machine learning applications focused on solving
 🟠 Hyperparameter Tuning  
 
 ---
+## 🔍 Currently Exploring  
+
+🧠 Deep Learning  
+📌 Neural Networks, CNN, RNN  
+🚀 Building and experimenting with real-world DL applications  
+
+---
 
 ## 🚀 Featured Projects  
 
