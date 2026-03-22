@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Aditi Patil  
 
-### 🚀 Building Machine Learning Systems for Real-World Decision Making  
+### 🚀 Building Machine Learning & Deep Learning Systems for Real-World Problems  
 
-I design and develop end-to-end machine learning applications focused on solving real-world problems — from data preprocessing and feature engineering to model building and deployment.  
+I design and develop end-to-end machine learning and deep learning applications — from data preprocessing and feature engineering to model building, optimization, and deployment.  
 
 ---
 
 ## 🧠 About Me  
 
-- 💡 Interested in solving practical problems using data  
-- 📊 Building end-to-end ML applications  
-- 🚀 Focused on deployment and real-world use cases  
-- 📚 Continuously improving ML and problem-solving skills  
+- 💡 Passionate about solving real-world problems using data  
+- 🤖 Building end-to-end ML & Deep Learning applications  
+- 👁️ Exploring Computer Vision and image-based solutions  
+- 🚀 Focused on deployment and practical use cases  
+- 📚 Continuously improving problem-solving and modeling skills  
 
 ---
 
@@ -28,29 +29,39 @@ I design and develop end-to-end machine learning applications focused on solving
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
 ---
 
-### 🤖 Machine Learning  
-🟢 Regression  
-🟣 Classification  
+### 🤖 Machine Learning & Deep Learning  
+🟢 Regression & Classification  
+🟣 CNN, Transfer Learning (ResNet50)  
 🟡 Feature Engineering  
-🔵 Model Evaluation  
-🟠 Hyperparameter Tuning  
-
----
-## 🔍 Currently Exploring  
-
-🧠 Deep Learning  
-📌 Neural Networks, CNN, RNN  
-🚀 Building and experimenting with real-world DL applications  
+🔵 Model Evaluation (ROC-AUC, RMSE, etc.)  
+🟠 Hyperparameter Tuning (Optuna)  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 💳 Credit Risk Modelling System  
+### 🚗 AutoInspect AI | Car Damage Detection System  
+🚀 **Impact:** Enables automated vehicle damage assessment for insurance claim processing  
 
+- Built a deep learning model using **ResNet50 (Transfer Learning)** with partial fine-tuning for car damage detection  
+- Optimized performance using **Optuna** and improved results on limited data  
+- Developed and deployed a **Streamlit application** for real-time image-based predictions  
+
+
+🔗 **Live Demo:**  
+https://aditi-car-damage-detection.streamlit.app/
+
+💻 **GitHub Repo:**  
+https://github.com/AditiPatil31/Car-Damage-Detection  
+
+---
+
+### 💳 Credit Risk Modelling System  
 🚀 **Impact:** Helps lenders assess default risk and simulate decisions before approving loans  
 
 - Predicts Probability of Default  
@@ -61,12 +72,11 @@ I design and develop end-to-end machine learning applications focused on solving
 https://aditi-credit-risk-modelling.streamlit.app/  
 
 💻 **GitHub Repo:**  
-https://github.com/AditiPatil31/Credit-Risk-Modelling 
+https://github.com/AditiPatil31/Credit-Risk-Modelling  
 
 ---
 
 ### 🏥 Healthcare Premium Prediction  
-
 🚀 **Impact:** Helps insurers estimate premiums faster and more consistently  
 
 - Predicts insurance premium with high accuracy  
@@ -74,7 +84,7 @@ https://github.com/AditiPatil31/Credit-Risk-Modelling
 - Deployed as an interactive web app  
 
 🔗 **Live Demo:**  
-https://aditi-health-insurance-premium-prediction.streamlit.app/ 
+https://aditi-health-insurance-premium-prediction.streamlit.app/  
 
 💻 **GitHub Repo:**  
 https://github.com/AditiPatil31/HealthCare-Premium-Prediction-Project  
@@ -82,7 +92,6 @@ https://github.com/AditiPatil31/HealthCare-Premium-Prediction-Project
 ---
 
 ### 💰 Expense Tracking System  
-
 🚀 **Impact:** Helps users understand spending patterns and make better financial decisions  
 
 - Tracks and categorizes expenses  
@@ -96,18 +105,17 @@ https://github.com/AditiPatil31/Expense-Tracking-System
 
 ## 🏆 Achievements  
 
-
-- 🏗️ Built multiple ML projects  
-- 📚 Strong ML & deployment fundamentals  
+- 🏗️ Built multiple end-to-end ML & DL projects  
+- 🚀 Deployed real-world applications using Streamlit  
+- 📚 Strong foundation in Machine Learning, Deep Learning, and model optimization  
 
 ---
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20Patil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditi-patil31/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20Patil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditi-patil31/)  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-black?style=for-the-badge)](https://codebasics.io/portfolio/Aditi-Patil) 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-black?style=for-the-badge)](https://codebasics.io/portfolio/Aditi-Patil)  
 
 ---
 
