@@ -87,7 +87,8 @@ https://github.com/AditiPatil31/E-commerce-Chatbot
 https://aditi-real-estate-assistant.streamlit.app/
 
 💻 **GitHub Repo:**
-https://github.com/AditiPatil31/Real-Estate-Assistant
+https://github.com/AditiPatil31/Real-Esate-Assistant
+
 ---
 
 ### 🚗 AutoInspect AI | Car Damage Detection System  
